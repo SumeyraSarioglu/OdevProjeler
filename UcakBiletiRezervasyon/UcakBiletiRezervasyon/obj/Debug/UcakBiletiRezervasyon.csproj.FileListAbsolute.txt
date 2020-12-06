@@ -1,0 +1,11 @@
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\bin\Debug\UcakBiletiRezervasyon.exe.config
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\bin\Debug\UcakBiletiRezervasyon.exe
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\bin\Debug\UcakBiletiRezervasyon.pdb
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.csprojAssemblyReference.cache
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.Form1.resources
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.Properties.Resources.resources
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.csproj.GenerateResource.cache
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.exe
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.pdb
+C:\Users\NajjSum\source\repos\UcakBiletiRezervasyon\UcakBiletiRezervasyon\obj\Debug\UcakBiletiRezervasyon.Kisisel_Bilgilercs.resources
