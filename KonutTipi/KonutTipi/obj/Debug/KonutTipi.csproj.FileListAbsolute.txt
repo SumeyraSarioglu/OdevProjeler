@@ -1,0 +1,10 @@
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.csprojAssemblyReference.cache
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.Form1.resources
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.Properties.Resources.resources
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.csproj.GenerateResource.cache
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.csproj.CoreCompileInputs.cache
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\bin\Debug\KonutTipi.exe.config
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\bin\Debug\KonutTipi.exe
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\bin\Debug\KonutTipi.pdb
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.exe
+C:\Users\NajjSum\source\repos\KonutTipi\KonutTipi\obj\Debug\KonutTipi.pdb
