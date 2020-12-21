@@ -1,0 +1,10 @@
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\bin\Debug\Muzik.exe.config
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\bin\Debug\Muzik.exe
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\bin\Debug\Muzik.pdb
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.csprojAssemblyReference.cache
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.Form1.resources
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.Properties.Resources.resources
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.csproj.GenerateResource.cache
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.csproj.CoreCompileInputs.cache
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.exe
+C:\Users\sumeyra.sarıoglu\source\repos\Muzik\Muzik\obj\Debug\Muzik.pdb
